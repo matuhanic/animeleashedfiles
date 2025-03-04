@@ -30,7 +30,7 @@ damage=5
 type=humanoid
 speed=0.8
 damage=5
-[Злой Дух]
+[Злой дух]
 type=humanoid
 speed=1
 damage=5
