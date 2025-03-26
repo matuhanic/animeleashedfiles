@@ -2,7 +2,7 @@
 type=humanoid
 speed=1
 damage=5
-[King Crimson]
+[King crimson]
 type=humanoid
 speed=1
 damage=5
